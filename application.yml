@@ -1,0 +1,9 @@
+app:
+  name: "Sudeep Peddinti"
+  regNo: "22BCE2751"
+  email: "sudeep.peddinti123@gmail.com"
+  solutionFile: "classpath:solution.sql"
+
+endpoints:
+  generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  submitFallback: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
